@@ -1,2 +1,2 @@
 # 19000881_Caesar_Cipher
-Functional Programming Assignment
+SCS_2204 Functional Programming - Assignment_The_Caesar_Cipher
